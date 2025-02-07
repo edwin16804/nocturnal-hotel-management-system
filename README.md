@@ -1,4 +1,4 @@
-![Hotel Management Edwin Image 38](https://github.com/user-attachments/assets/c76d9434-0c54-424d-9f7f-deca02f42e5b)# Hotel Management System
+# Hotel Management System
 
 Objective:
 Developed a comprehensive Hotel Management System providing users with access to all essential features required for efficient hotel management, such as room booking, check-out, and reservations.
